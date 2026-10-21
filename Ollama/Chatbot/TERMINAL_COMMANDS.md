@@ -36,6 +36,7 @@ E:\LLM\Ollama\
 ├── requirements.txt
 └── Chatbot\
     ├── app.py
+    ├── README.md
     └── TERMINAL_COMMANDS.md
 ```
 
@@ -280,7 +281,7 @@ this environment.
 
 ## GitHub upload
 
-The planned repository root is `E:\LLM`, with repository name `LLM`. Only the
+The repository root is `E:\LLM`, with repository name `LLM`. Only the
 Ollama chatbot project and `Ollama\requirements.txt` should be committed, so
 the GitHub file tree shows `Ollama\Chatbot`. The unrelated `Text_Summerizer`
 project and `LLM_GUIDE.md` are excluded by the root `.gitignore`.
@@ -314,6 +315,9 @@ Status: Completed. Staged files:
 - `Ollama/requirements.txt`
 - `Ollama/Chatbot/TERMINAL_COMMANDS.md`
 - `Ollama/Chatbot/app.py`
+
+The initial push to `https://github.com/viveksirji/LLM` completed on the
+`main` branch. A project README is maintained at `Ollama\Chatbot\README.md`.
 
 No commit or upload has been made yet. The GitHub repository URL must be
 added as the `origin` remote before pushing. Check staged files with:
