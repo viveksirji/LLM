@@ -1,0 +1,14 @@
+# Python environments and generated files
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+
+# Local secrets
+**/secrets.toml
+**/.env
+**/.env.*
+!**/.env.example
+
+# Keep this GitHub repository focused on the Ollama chatbot project
+/Text_Summerizer/
+/LLM_GUIDE.md
